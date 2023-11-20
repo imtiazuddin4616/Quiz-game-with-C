@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1700380529 source:x:\cp projects\quize game\main.c
+	<stdio.h>
+
